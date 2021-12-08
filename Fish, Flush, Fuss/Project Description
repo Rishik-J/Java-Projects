@@ -1,0 +1,11 @@
+-making a game called “Fish, Flush, Fuss”, a game typically played with a group of 3 persons. 
+-Each person chooses one number and it is assigned to either  'Fish', 'Flush', or 'Fuss'.
+
+In each round: 
+-If the number of the round is a multiple of the Fish number, the person who chose the number will say 'Fish' instead of the number of the round.
+-If it is a multiple of the Flush number, they will say 'Flush' instead. 
+-If it is a multiple of the Fuss number, they will say 'Fuss' instead. 
+
+-If it is a multiple of any two of the chosen numbers, the word corresponding to the larger number is said 
+-if it is a combination of all the three, they will say 'Flamingo’.
+-if the number is not a multiple of Fish, Flush, or Fuss, then the number of the round is said instead.
